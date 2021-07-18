@@ -1,0 +1,25 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "My Solutions to FreeCodeCamp Challenges",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "scripts": {
+    "lint" : "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Severo-Yannick/freeCodeCamp.git"
+  },
+  "author": "Severo-Yannick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Severo-Yannick/freeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/Severo-Yannick/freeCodeCamp#readme"
+}
