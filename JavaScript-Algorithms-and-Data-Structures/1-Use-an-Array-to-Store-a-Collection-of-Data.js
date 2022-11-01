@@ -1,1 +1,0 @@
-let yourArray = ['toto', 34, true, false, 45.67]; // Change this line
